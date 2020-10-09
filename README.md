@@ -1,6 +1,9 @@
 # Pico-Arduino Bluetooth Communication
 This documentation provides a system overview, quickstart, and expansion guide for establishing 2-way Bluetooth communication between Arduino and the Pico headset. The included code is a Unity project that works with the example setup, and can be modified modularly to include other Arduino components. 
 
+[![](http://img.youtube.com/vi/65QThxVZiHE/0.jpg)](http://www.youtube.com/watch?v=65QThxVZiHE "Pico Arduino Connection Demo")
+
+
 **Table of Contents**
 - [Pico-Arduino Bluetooth Communication](#pico-arduino-bluetooth-communication)
 - [About](#about)
